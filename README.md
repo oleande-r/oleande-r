@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="images/aurora_australis.jpg" alt="picture of the aurora australis"> 
 
-<!--
-**oleande-r/oleande-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h1>wake up, sleeper...</h1>
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a recent graduate from Northwestern University, interested in software development and passionate about narrative-focused video games.
+* 🎮 I love video games— both playing and writing narratives for them.
+* 💽 I'm a fullstack developer but I find myself gravitating towards backend development.
+* 🌇 I have a general interest in astronomy. My pfp is of a solar eclipse that occured in 2008.
+* 🎻 I spent many years playing the violin and am interested in music theory.
+* 📖 In my freetime, I enjoy reading. If we're friends, ask for my <a href="https://www.thestorygraph.com/">Storygraph</a>.
