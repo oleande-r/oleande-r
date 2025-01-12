@@ -6,7 +6,7 @@
 
 ###
 
-I'm a recent graduate from Northwestern University, interested in software development and passionate about narrative-focused video games.
+A recent graduate from Northwestern University, interested in software development and passionate about narrative-focused video games.
 * 🎮 I love video games— both playing and writing narratives for them.
 * 💽 I'm a fullstack developer but I find myself gravitating towards backend development.
 * 🌇 I have a general interest in astronomy. My pfp is of a solar eclipse that occured in 2008.
