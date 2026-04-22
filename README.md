@@ -6,7 +6,6 @@
 
 ###
 
-I'm a recent Computer Science and Creative Writing graduate from Northwestern University!
 * 🎮 I love video games— both playing and writing narratives for them.
 * 💽 I'm a fullstack developer but I find myself gravitating towards backend development.
 * 🌇 I have a general interest in astronomy. My pfp is of a solar eclipse that occured in 2008.
