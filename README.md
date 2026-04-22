@@ -10,4 +10,4 @@
 * 💽 I'm a fullstack developer but I find myself gravitating towards backend development.
 * 🌇 I have a general interest in astronomy. My pfp is of a solar eclipse that occured in 2008.
 * 🎻 I spent many years playing the violin and am interested in music theory.
-* 📖 In my freetime, I enjoy reading. If we're friends, ask for my <a href="https://www.thestorygraph.com/">Storygraph</a>.
+* 📖 In my freetime, I enjoy reading. If we're friends, ask for my <a href="https://www.thestorygraph.com/">Storygraph</a> or my <a href="https://hardcover.app/">Hardcover</a>.
